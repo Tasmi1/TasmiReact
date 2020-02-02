@@ -15,11 +15,12 @@ import Addpatient from './components/Patient/Addpatient'
 import Adddoctor from './components/Doctor/Adddoctor';
 import appointmentdetails from './components/appointmentdetails'
 
+
 function App() {
   return (
     <BrowserRouter>
     
-    
+
       
 
        <Route path ="/" exact component={HomeComponent}/>
