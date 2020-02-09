@@ -3,9 +3,6 @@ import '../CSS/LoginForm.css';
 export const AuthLogin=(props)=>{
     return(
         <div>
-
-
-
             
             <div className="login-form">
             <form >
