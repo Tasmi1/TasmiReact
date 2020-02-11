@@ -7,6 +7,13 @@ import HomeComponent from './components/HomeComponent'
 import Doctorscomponent from './components/Doctorscomponent'
 import Login from './components/LoginComponent'
 import {BrowserRouter, Route} from 'react-router-dom'
+
+
+
+
+
+
+
 import Appointment from './components/Appointment'
 import dashboard from './components/dashboard'
 import UserProfile from './components/UserProfile';
